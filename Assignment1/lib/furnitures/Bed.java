@@ -1,0 +1,6 @@
+
+class Bed {
+
+	String type;
+
+}
