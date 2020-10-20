@@ -1,5 +1,5 @@
 package furnitures.livingroom;
 
-class Table{
+public class Table{
    public int price(){return 5000;} 
 }
